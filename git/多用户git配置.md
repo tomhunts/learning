@@ -31,3 +31,11 @@ Enter passphrase for key 'C:\Users\Administrator/.ssh/id_rsa':
 Hi happyjava007! You've successfully authenticated, but GitHub does not provide shell access.
 即为成功
 ```
+
+## 5. 为不同项目配置不同的用户与email
+
+```sh
+为当前项目配置用户名为work
+git config user.name "work"
+```
+
